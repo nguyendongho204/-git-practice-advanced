@@ -1,0 +1,47 @@
+[33mcommit 7d3f47e96ce38b28e27977982d8b6e8e14720926[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:10:29 2025 +0700
+
+    Add line 5
+
+[33mcommit 23bebe7df082e3dd554b7bd4f0f1d0b7a85de0e7[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:10:27 2025 +0700
+
+    Add line 4
+
+[33mcommit bf85b9c3c56fd936306a90940169307e6c88769e[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:05:23 2025 +0700
+
+    Add line 3
+
+[33mcommit bf5b40e2894e86fffd9a6203fec3e642e2dd3cc3[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:05:21 2025 +0700
+
+    Add line 2
+
+[33mcommit 26853ab131cd15449d9df09ea92a3c019eb8e680[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:05:21 2025 +0700
+
+    Add line 1
+
+[33mcommit a5c80e54b226feb0e2a90bcb980dcbfd48446e4e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:01:31 2025 +0700
+
+    Restore readme changes
+
+[33mcommit 60ffa971d223c57a98b2d7cda8a26f8c9312e6bc[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 09:00:37 2025 +0700
+
+    Add note.md
+
+[33mcommit ae5d82afb7743782d7d35d249ec5856d5f5cd7d2[m
+Author: nguyendongho204 <nguyendongho204@example.com>
+Date:   Wed Oct 8 08:40:12 2025 +0700
+
+    Init main branch with README
